@@ -1,0 +1,12 @@
+ENCS2110,DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION LABORATORY,2,jamal syyam-1,ibraheem nemir-2,ismail mohammad-(3:5),adnan yahya-(4:6),khader mohammad-7,belal krake-8.
+ENCS311,ASSEMBLY LANGUAGE LABORATORY,3,abu ssaud-1.
+ENCS3130,LINUX LABORATORY,3,mohammad jubran-(1:2:5),khader mohammad-3,aziz qaroush-4.
+ENCS411,COMPUTER DESIGN LAB,4,abdallatif saleh-(1:2).
+ENCS4110,COMPUTER DESIGN LABORATORY,4,abu ssaud-(1:2:5),ayman hruob-(3:4).
+ENCS412,INTERFACING LABORATORY,4,jamal syyam-1,wasel ghanm-(2:3).
+ENCS4130,COMPUTER NETWORK LABORATORY,4,ibraheem nemir-(1:2:6),bashar mohammad-3,ismail mohammad-(4:9),mohammad helal-(5:8),abadalkreem awwad-7.
+ENCS514,REAL-TIME SYSTEMS LAB,5,hanna blata-(1:3:4),aziz qaroush-2.
+ENCS5150,ADVANCED COMPUTER SYSTEMS ENGINEERING LABORATORY,5,yazan abu farha-(1:3),mohammad hussain-(2:4).
+ENEE3112,ELECTRONICS LAB,3,nasser ismail-1,mohammad aljaba-2.
+ENEE4113,COMMUNICATIONS LAB,4,alhareth mohammad-1,ahraf alrimawi-(2:5),kaddrea ahmad-(3:6),wael hashlamoun-4.
+ 
